@@ -1,0 +1,9 @@
+.header {
+  width: 100vw;
+  padding: 10px 10px;
+  background-color: #141414;
+  color: white;
+  text-align: center;
+  border-bottom: 1px solid;
+  border-color: #696969;
+}

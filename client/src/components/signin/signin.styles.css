@@ -1,0 +1,32 @@
+.sign-in {
+  background-color: #141414;
+  text-align: center;
+  flex-grow: 1;
+  padding: 10px 10px;
+  margin-top: 100px;
+  color: white;
+}
+
+.form {
+  background-color: #141414;
+  padding: 20px;
+  border: 1px;
+  border-style: solid 20px;
+  border-color: #696969;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.form input {
+  margin-left: 10px;
+  width: 60%;
+  border-radius: 20px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+.form button {
+  margin-top: 4%;
+  /* margin-left: 0.5%; */
+  padding: 10px;
+  width: 100%;
+}
