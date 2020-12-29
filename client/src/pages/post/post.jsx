@@ -25,7 +25,9 @@ const PostPage = ({ user, setUser, history }) => {
           <h1>{data.newUser.email}</h1>
           <h2>{data.message}</h2>
         </div>
-      ) : null}
+      ) : (
+        <h1>Please Login First</h1>
+      )}
     </div>
   );
 };
